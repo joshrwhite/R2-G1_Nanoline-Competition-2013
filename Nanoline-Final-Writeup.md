@@ -5,8 +5,8 @@
 
 [//]: # (Image References)
 
-[image1]: https://github.com/joshrwhite/R2-G1_Nanoline-Competition-2013/blob/master/images/x.jpg "EngineersNotebook"
-[image2]: https://github.com/joshrwhite/R2-G1_Nanoline-Competition-2013/blob/master/images/y.jpg "Diagram"
+[image1]: https://github.com/joshrwhite/R2-G1_Nanoline-Competition-2013/blob/master/images/EngineersNotebook.PNG "EngineersNotebook"
+[image2]: https://github.com/joshrwhite/R2-G1_Nanoline-Competition-2013/blob/master/images/Diagram.PNG "Diagram"
 
 We are sorry for the confusion the presentation has caused. We assure you that it was not our intent to display peripherals more than the Controller because, in all actuality, the peripherals would not be able to function if the Nanoline Controller were not at the core.
 

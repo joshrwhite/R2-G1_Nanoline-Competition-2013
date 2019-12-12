@@ -74,7 +74,7 @@ The contest is ideal for girls and boys who enjoy robotics, computers, mathemati
 
 Since the Nanoline contest started in 2009, the student participants, along with their parents, educators and siblings, have had the opportunity to get a close-up look at the exciting world of industrial automation. The world of mechatronics, robotics and automation is clean and exciting. It should not be confused with the dirty, dull and dangerous applications of the previous millennium.
 
-Phoenix Contact has a host of electrical and electronic products that could be used with your project. Let us know what you need and we will provide those parts too. More products can be seen our corporate website at (www.phoenixcontact.com)[https://www.phoenixcontact.com/online/portal/us].
+Phoenix Contact has a host of electrical and electronic products that could be used with your project. Let us know what you need and we will provide those parts too. More products can be seen our corporate website at https://www.phoenixcontact.com/online/portal/us.
 
 ### **_About Phoenix Contact and our STEM Initiatives_**
 
